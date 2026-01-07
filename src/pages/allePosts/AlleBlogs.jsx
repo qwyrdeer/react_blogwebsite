@@ -6,7 +6,11 @@ return (
   <>
     <h1>alle blogs</h1>
 
-      // map door JSON
+      {/*// map door JSON*/}
+      {/*haal alle posts op*/}
+      {/*haal uit elke post: titel, naam, aantal reacties, aantal shares*/}
+
+
       <div className="titelAlleBlogs">
           <Link to="/blogs/:id">Title </Link> (name)
           AANTAL reacties, AANTAL shares
