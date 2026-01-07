@@ -12,7 +12,7 @@ return (
 
 
       <div className="titelAlleBlogs">
-          <Link to="/blogs/:id">Title </Link> (name)
+          <Link to="/blogs/:id">Title</Link> (name) (Hidden: id = key)
           AANTAL reacties, AANTAL shares
       </div>
 
